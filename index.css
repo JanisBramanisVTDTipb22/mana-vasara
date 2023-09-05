@@ -1,0 +1,17 @@
+header {
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    z-index: 4;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+main {
+    margin-top: 150px;
+}
